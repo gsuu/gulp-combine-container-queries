@@ -16,7 +16,7 @@ npm install gulp-combine-container-queries --save-dev
 
 ## Usage
 ```javascript
-import combineContainerQuery from '@gsuu/gulp-combine-container-queries';
+import combineContainerQuery from 'gulp-combine-container-queries';
 
 gulp.task('ccq', function () {
   gulp.src('src/**/*.css')
